@@ -14,4 +14,9 @@ The long-term goal is to combine **voice profiles, spoken words, and other facto
 
 **Work in progress** — more implementations and experiments coming soon.
 
-> Voice profiles stay local; please record others only with permission.
+---
+![image](photos/pic1.png)
+---
+![image](photos/pic2.png)
+---
+![image](photos/pic3.png)
