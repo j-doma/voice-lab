@@ -14,9 +14,12 @@ The long-term goal is to combine **voice profiles, spoken words, and other facto
 
 **Work in progress** — more implementations and experiments coming soon.
 
+<img src="photos/pic1.png" width="50%">
+
 ---
-![image](photos/pic1.png)
+
+<img src="photos/pic2.png" width="50%">
+
 ---
-![image](photos/pic2.png)
----
-![image](photos/pic3.png)
+
+<img src="photos/pic3.png" width="50%">
